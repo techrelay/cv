@@ -2,18 +2,19 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [nick@techrelay.xyz](mailto:nick@techrelay.xyz)
+* Email: [nick@nbennett.xyz](mailto:nick@nbennett.xyz)
+* Phone: [+1(716)-330-1126](tel:+17163301126)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> PO Box 
 >
-> London
+> Colorado Springs, Colorado
 >
-> United Kingdom
+> United States
 
 ---
 

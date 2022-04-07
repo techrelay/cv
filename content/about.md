@@ -14,6 +14,9 @@ When I am not Traveling, Working with Tech or Maintaining my Home Env. I like to
 
 ## Work History
 
+**Systems Administrator Mid-Market - Resultant**
+Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.
+
 **Systems Administrator - Garden of the Gods Collection**
 Maintain Infrastructure including Hyper-Visors, Server, Firewalls,
 Switches, Routers, End User Hardware, IT Ticket System. Diagnose

@@ -6,7 +6,7 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-My name is Nicholas T. Bennett. I have been in IT for just over 16 years, It is my biggest passion oustide of travel, I have spent most of my life growing up overseas and have been to 65+ countries so far across 6 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. 
+My name is Nicholas T. Bennett. I have been in IT for just over 16 years, It is my biggest passion oustide of travel, I have spent most of my life growing up overseas and have been to 65+ countries so far across 4 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. 
 
 For my Home Lab and Home Prod I have 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP Core between my ONT/GPON, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-Metal Linix Hosts running things like stand alone services/application as well as Docker. 
 

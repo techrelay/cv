@@ -2,9 +2,9 @@
 title = "Contact"
 +++
 
-* Email: [nick@techrelay.xyz](mailto:nick@techrelay.xyz)
-* Email: [nick@nbennett.xyz](mailto:nick@nbennett.xyz)
-* Phone: [+1(716)-330-1126](tel:+17163301126)
+* Blog Email: [nick@techrelay.xyz](mailto:nick@techrelay.xyz)
+* Personal Email: [nick@nbennett.xyz](mailto:nick@nbennett.xyz)
+* Desk Phone: [+1(716)-330-1126](tel:+17163301126)
 
 ---
 
@@ -20,6 +20,7 @@ title = "Contact"
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](#)
+2. [LinkedIn](#)
+3. [Twitter](#)
+4. [Blog](https://techrelay.xyz)

@@ -6,56 +6,93 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+My name is Nicholas T. Bennett. I have been in IT for just over 16 years, It is my biggest passion oustide of travel, I have spent most of my life growing up overseas and have been to 65+ countries so far across 6 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. 
 
-## Research Interest
+For my Home Lab and Home Prod I have 2 24U rackes filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP Core between my ONT/GPON, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through out the house, Full AD, Azure AD, 365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-Metal Linix Hosts running things like stand alone services/application as well as Docker. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+When I am not Traveling, Working with Tech or Maintaining my Home Env. I like to spend time outside doing things like Hiking, Camping, Overlanding, Ski/Snowboard, Surf, Dive, or really anything that has to do with Snow or Water, I host a weekly Boardgame and TableTop Game Night, I play Darts in a weekly League, Or spend time with friends and family. I generally make very quality relationships weather its a vendor, client, peer, random person at the grocery store etc.. as I am exremely social for someone in the Tech Field which brings a different perspective than your average bear in IT. 
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Work History
 
-## Publications
+**Systems Administrator - Garden of the Gods Collection**
+Maintain Infrastructure including Hyper-Visors, Server, Firewalls,
+Switches, Routers, End User Hardware, IT Ticket System. Diagnose
+and Troubleshoot Infrastructure and End User issues as needed.
+Build and Deploy Systems. Maintain on-call Protocols and Proce-
+dures. Build, Deploy, Manage Docker environment. Troubleshoot Au-
+dio and Video Systems. Maintain and troubleshoot Salto Access Con-
+trol, Maintain and Resolve End User Tickets. Also provided support
+for an onsite Medical Wellness Center and Medical Billing company.
+Deploy and Maintain Infrastructure for GPON System
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+**Consultant Self Employed**
+Design, Build, Deploy, and Maintain Infrastructure.
+Migrate on-prem to cloud offerings like azure/365.
+General Support and Maintainance.
 
-## Typography
+**IT Manager - Safety Station & Ink182**
+Designed the Infrastructure from scratch, Built out servers, firewalls,
+routers, and switches, Deployed entire infrastructure, maintain and
+troubleshoot as needed.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+**iOS/Mac - Technician Voelker Research**
+Diagnose, Troubleshoot, and Repair various Ios, Macintosh and other
+devices
 
-Here is a table:
+**Lead iOS/Mac Repair - Technician Colorado IPhone Repair**
+Diagnose, Troubleshoot, and Repair various iOS, Macintosh and other
+devices as well as oversee the other technicians and office clerical
+duties.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Skills
 
-Here is a horizontal rule:
+**Languages:** Basics of Powershell
+and SQL.
 
----
+**WebDev Basics:** HTML, CSS, PHP.
 
-Here is a blockquote:
+**Design:** Basic AutoCAD, Basic Adobe Suite.
 
-> To a great mind, nothing is little
+**Virtualization:** VMware, Citrix,
+Hyper-V, Proxmox, Docker, LXC,
+KVM/QEMU.
 
-Here is a `code` block:
+**Infrastructure:** Design, Build, Deploy,
+Maintain Servers and Network or
+other Infrastructure, .
 
-```python
-def is_elementary():
-  return True
-```
+**Help Desk:** Diagnose and
+Troubleshoot Applications, Systems,
+Networks and/or Devices and provide
+support to End Users.
 
-## References
+**Certifications:** A+, Network+,
+Security+, MCSA/MCSE, ACMT.
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+**Other:** MS Office, MS Active Directory
+On-Prem., MS Exchange On-Prem, MS
+Azure AD, LDAP, Git, Linux, Windows
+xp-10, Windows Server 2008-2016,
+MacOS All Versions, CAT5/6 Cabling
+and Terminations, Coax Cabiling and
+Terminations, Firewalls, SIP and other
+PBX related skills, Various Datacenter
+Skills.
+
+## Continued Education 
+
+**MOOC's:** Introduction to HTML, PHP, JS, SQL & Python Courses on Datacamp.
+Ethical Hacking & Security Specialization, Automate the boring stuff, Ultimate Penetration Testing, Powershell Basics on udemy
+
+**E-Books:** Automate the boring stuff, Powershell in a month of lunches.
+
+**LAB:** I am constantly adding hardware to my lab, Spinning up new application, software, etc... to stay current with emerging tech. 
+
+
+## Education
+
+* B.S. Computer Science - Cairo American University
+* IB Certificate - Cairo American College
 
 [^1]: This is the first footnote.
 [^2]: This is the second footnote.

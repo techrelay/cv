@@ -16,7 +16,7 @@ When I am not Traveling, Working with Tech or Maintaining my Home Env. I like to
 
 
 **Systems Administrator Mid-Market - Resultant**
-Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.
+Focus mainly on one client that is a city government, Ocasionally will Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.
 
 **Systems Administrator - Contract - Gallop Tech**
 Manage clients, Perform Maintainance, Impliment infrastructure, Light Dispatching, Onsite travel, overall general sysadmin tasks on top of project work.

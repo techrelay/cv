@@ -38,11 +38,11 @@ Designed the Infrastructure from scratch, Built out servers, firewalls,
 routers, and switches, Deployed entire infrastructure, maintain and
 troubleshoot as needed.
 
-**iOS/Mac - Technician Voelker Research**
+**iOS/Mac Technician - Voelker Research**
 Diagnose, Troubleshoot, and Repair various Ios, Macintosh and other
 devices
 
-**Lead iOS/Mac Repair - Technician Colorado IPhone Repair**
+**Lead iOS/Mac Repair Technician - Colorado IPhone Repair**
 Diagnose, Troubleshoot, and Repair various iOS, Macintosh and other
 devices as well as oversee the other technicians and office clerical
 duties.

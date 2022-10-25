@@ -93,7 +93,7 @@ Ethical Hacking & Security Specialization, Automate the boring stuff, Ultimate P
 
 **E-Books:** Automate the boring stuff, Powershell in a month of lunches.
 
-**LAB:** I am constantly adding hardware to my lab, Spinning up new application, software, etc... to stay current with emerging tech. 
+**LAB:** I am constantly adding hardware to my lab, Spinning up new Appliances and Applications, Software, etc... to stay current with emerging tech. 
 
 
 ## Education

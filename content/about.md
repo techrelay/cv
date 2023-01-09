@@ -8,7 +8,7 @@ title = "About"
 
 My name is Nicholas T. Bennett. I have been in IT for just over 17 years, with a strong skillset in Virtualization, MS 365/Intune/AAD and Active Directory,  It is my biggest passion oustide of travel, I have spent most of my life growing up overseas and have been to 65+ countries so far across 4 contienents. I spend a lot of time in Tech even outside of work as I have a large home environment to maintain. 
 
-For my Home Lab and Home Prod I have two 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-Metal Linix Hosts running things like stand alone services/application as well as Docker. 
+For my Home Lab and Home Production I have two 24U racks filled with Enterprise Kit including 4 Hypervisors in 2 clusters comprising of Proxmox for Home Prod and ESXI/vCenter for Home Lab, Full 10Gig SFP, Firewall and Core Switch, Synology NAS as well as my main desktop, Full PBX with several IP Phones of varrying brands through out the house, Full AD, Azure AD, Office365 with Hybrid-Sync and finally the rest of the space is filled with Appliances and Bare-Metal Linix Hosts running things like stand alone services/application as well as Docker. 
 
 When I am not Traveling, Working with Tech or Maintaining my Home Env. I like to spend time outside doing things like Hiking, Camping, Overlanding, Ski/Snowboard, Surf, Dive, or really anything that has to do with Snow or Water, I host a weekly Board and Tabletop Game Night, I play Darts in a weekly League, and spend time with friends and family. I generally make very quality relationships wether its a vendor, client, peer, random person at the grocery store etc.. as I am exremely social for someone in the Tech Field which brings a different perspective than your average bear in IT. 
 
@@ -18,7 +18,7 @@ When I am not Traveling, Working with Tech or Maintaining my Home Env. I like to
 **Systems Administrator Mid-Market - Resultant**
 Focus mainly on one client that is a city government with a heavy vmware and Azure/Intune/o365 environment, Ocasionally will Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.
 
-**Systems Administrator - Contract - Gallop Tech**
+**Systems Administrator - Contract to hire - Gallop Tech**
 Manage clients, Perform Maintainance, Impliment infrastructure, Light Dispatching, Onsite travel, overall general sysadmin tasks on top of project work. Mainly on-prem AD, AzureAD/Intune/o365, Vmware Virtualization
 
 **Systems Administrator - Garden of the Gods Collection**

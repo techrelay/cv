@@ -4,7 +4,7 @@ title = "Contact"
 
 <!--* Blog Email: [nick@techrelay.xyz](mailto:nick@techrelay.xyz)-->
 * Personal Email: [nick@bennett.lol](mailto:nick@bennett.lol)
-* Desk Phone: [+1(719)-446-4808](tel:+17194664808)
+* Desk Phone: [+1(774)-418-0269](tel:+17744180269)
 
 ---
 

@@ -27,6 +27,6 @@ title = "Contact"
 
 ## Social
 
-1. [Github](https://github.com/ntbennett)
+1. [Github](https://github.com/zippyy)
 2. [LinkedIn](https://www.linkedin.com/in/nicholas-bennett-93212015a/)
 3. [Blog](https://techrelay.xyz/posts)

@@ -48,7 +48,7 @@ duties.
 
 **Owner/Consultant - Self Employed - Tech Relay** <br>
 *Jan. 2013 - Present* <br>
-Design, Build, Deploy, and Maintain Infrastructure.
+<br>Design, Build, Deploy, and Maintain Infrastructure.
 Migrate on-prem to cloud offerings like azure/365.
 Strong focus on Intune, AzureAD (on prem AD as well) and office 365
 General Support and Maintainance.

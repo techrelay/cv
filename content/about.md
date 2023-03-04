@@ -17,12 +17,12 @@ For my Home Lab and Home Production I have two 24U racks filled with Enterprise 
 
 **Systems Administrator Mid-Market - Resultant** <br>
 *Sept. 2021 - Nov 2022* <br>
-<br>Focus mainly on one client that is a city government with a heavy vmware and Azure/Intune/o365 environment, Ocasionally will Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.
+<br>Focus mainly on one client that is a city government with a heavy vmware and Azure/Intune/o365 environment, Ocasionally will Pull tickets from various boards at various stages in ticket life, Troubleshoot and Remdiate issues, Conduct monthly maintainance, Excecute Project work, Maintain Client Relationships. On-call Rotation.<br>
 
 
 **Systems Administrator - Contract - Gallop Tech** <br>
 *Apr. 2021 - Aug. 2021* <br>
-<br>Manage clients, Perform Maintainance, Impliment infrastructure, Light Dispatching, Onsite travel, overall general sysadmin tasks on top of project work. Mainly on-prem AD, AzureAD/Intune/o365, Vmware Virtualization
+<br>Manage clients, Perform Maintainance, Impliment infrastructure, Light Dispatching, Onsite travel, overall general sysadmin tasks on top of project work. Mainly on-prem AD, AzureAD/Intune/o365, Vmware Virtualization<br>
 
 
 **Systems Administrator - Garden of the Gods Collection** <br>
@@ -35,14 +35,14 @@ dures. Build, Deploy, Manage Docker environment. Troubleshoot Au-
 dio and Video Systems. Maintain and troubleshoot Salto Access Con-
 trol, Maintain and Resolve End User Tickets. Also provided support
 for an onsite Medical Wellness Center and Medical Billing company.
-Deploy and Maintain Infrastructure for GPON System. Manage and maintain Office 365 with Azure AD hyrbid and intune. 
+Deploy and Maintain Infrastructure for GPON System. Manage and maintain Office 365 with Azure AD hyrbid and intune. <br>
 
 
 **IT Manager - Safety Station & Ink182** <br>
 *Mar. 2016 - Feb. 2019* <br>
 <br>Designed the Infrastructure from scratch, Built out servers, firewalls,
 routers, and switches, Deployed entire infrastructure, maintain and
-troubleshoot as needed. Deployed hybrid aad/o365 fron scratch. Manage and maintain Cloud infrastructure 
+troubleshoot as needed. Deployed hybrid aad/o365 fron scratch. Manage and maintain Cloud infrastructure <br>
 
 <!--**iOS/Mac Technician - Voelker Research**
 Diagnose, Troubleshoot, and Repair various Ios, Macintosh and other
@@ -53,7 +53,7 @@ devices-->
 *Dec. 2014 - Mar. 2016* <br>
 <br>Diagnose, Troubleshoot, and Repair various iOS, Macintosh and other
 devices as well as oversee the other technicians and office clerical
-duties.
+duties. <br>
 
 
 **Owner/Consultant - Self Employed - Tech Relay** <br>
@@ -61,7 +61,7 @@ duties.
 <br>Design, Build, Deploy, and Maintain Infrastructure.
 Migrate on-prem to cloud offerings like azure/365.
 Strong focus on Intune, AzureAD (on prem AD as well) and office 365
-General Support and Maintainance.
+General Support and Maintainance. <br>
 
 ## Skills
 

@@ -14,7 +14,7 @@ title = "Contact"
 
 * Personal Site: [nbennett.xyz](https://nbennett.xyz)
 * Personal Blog: [Tech Relay](https:://techrelay.xyz/posts)
-* Alternate CV: [CV Two](https://cv.nbennett.xyz)
+* Alternate CV: [CV Two](https://cv.techrelay.xyz)
 <!--## Mailing Address
 
 > PO Box 

@@ -47,7 +47,7 @@ devices as well as oversee the other technicians and office clerical
 duties.
 
 **Owner/Consultant - Self Employed - Tech Relay** <br>
-***Jan. 2013 - Present***
+*Jan. 2013 - Present* <br>
 Design, Build, Deploy, and Maintain Infrastructure.
 Migrate on-prem to cloud offerings like azure/365.
 Strong focus on Intune, AzureAD (on prem AD as well) and office 365
@@ -94,11 +94,11 @@ Skills.
 ## Continued Education 
 
 **MOOC's:** Introduction to HTML, PHP, JS, SQL & Python Courses on Datacamp.
-Ethical Hacking & Security Specialization, Automate the boring stuff, Ultimate Penetration Testing, Powershell Basics on udemy
+Ethical Hacking & Security Specialization, Automate the boring stuff, Ultimate Penetration Testing, Powershell Basics, Penetration and Bug Bounty Hunting, Website Hacking and Security, Penetration Testing Basics.
 
 **E-Books:** Automate the boring stuff, Powershell in a month of lunches.
 
-**LAB:** I am constantly adding hardware to my lab, Spinning up new Appliances and Applications, Software, etc... to stay current with emerging tech. 
+**LAB:** I am constantly adding hardware to my lab, Spinning up new Appliances and Applications, Software, etc... to stay current with emerging tech. I currently have two 24U racks with two Hypervisor clusters, full AD with hybrid sync and AAD, full PBX setup with sip trunk to name a few. 
 
 
 ## Education

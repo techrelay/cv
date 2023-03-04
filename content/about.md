@@ -46,7 +46,7 @@ Diagnose, Troubleshoot, and Repair various iOS, Macintosh and other
 devices as well as oversee the other technicians and office clerical
 duties.
 
-**Owner/Consultant - Self Employed - Tech Relay** 
+**Owner/Consultant - Self Employed - Tech Relay** <br>
 ***Jan. 2013 - Present***
 Design, Build, Deploy, and Maintain Infrastructure.
 Migrate on-prem to cloud offerings like azure/365.

@@ -32,25 +32,26 @@ trol, Maintain and Resolve End User Tickets. Also provided support
 for an onsite Medical Wellness Center and Medical Billing company.
 Deploy and Maintain Infrastructure for GPON System. Manage and maintain Office 365 with Azure AD hyrbid and intune. 
 
-**Consultant Self Employed**
-Design, Build, Deploy, and Maintain Infrastructure.
-Migrate on-prem to cloud offerings like azure/365.
-Strong focus on Intune, AzureAD (on prem AD as well) and office 365
-General Support and Maintainance.
-
 **IT Manager - Safety Station & Ink182**
 Designed the Infrastructure from scratch, Built out servers, firewalls,
 routers, and switches, Deployed entire infrastructure, maintain and
 troubleshoot as needed. Deployed hybrid aad/o365 fron scratch. Manage and maintain Cloud infrastructure 
 
-**iOS/Mac Technician - Voelker Research**
+<!--**iOS/Mac Technician - Voelker Research**
 Diagnose, Troubleshoot, and Repair various Ios, Macintosh and other
-devices
+devices-->
 
 **Lead iOS/Mac Repair Technician - Colorado IPhone Repair**
 Diagnose, Troubleshoot, and Repair various iOS, Macintosh and other
 devices as well as oversee the other technicians and office clerical
 duties.
+
+**Owner/Consultant - Self Employed - Tech Relay** 
+***Jan. 2013 - Present***
+Design, Build, Deploy, and Maintain Infrastructure.
+Migrate on-prem to cloud offerings like azure/365.
+Strong focus on Intune, AzureAD (on prem AD as well) and office 365
+General Support and Maintainance.
 
 ## Skills
 

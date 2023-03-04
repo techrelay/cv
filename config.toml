@@ -1,5 +1,5 @@
 title = "Curriculum Vitae"
-baseURL = "https://cv.techrelay.xyz"
+baseURL = "https://cv.nbennett.xyz"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true

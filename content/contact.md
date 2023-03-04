@@ -8,6 +8,11 @@ title = "Contact"
 
 ---
 
+## Websites
+
+* Personal Site: [nbennett.xyz](https://nbennett.xyz)
+* Personal Blog: [Tech Relay](https:://techrelay.xyz/posts)
+* Alternate CV: [CV Two](https://cv.nbennett.xyz)
 <!--## Mailing Address
 
 > PO Box 

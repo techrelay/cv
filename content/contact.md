@@ -2,25 +2,24 @@
 title = "Contact"
 +++
 
-* Blog Email: [nick@techrelay.xyz](mailto:nick@techrelay.xyz)
-* Personal Email: [nick@nbennett.xyz](mailto:nick@nbennett.xyz)
-* Desk Phone: [+1(716)-330-1126](tel:+17163301126)
+<!--* Blog Email: [nick@techrelay.xyz](mailto:nick@techrelay.xyz)-->
+* Personal Email: [nick@bennett.lol](mailto:nick@bennett.lol)
+* Desk Phone: [+1(719)-446-4808](tel:+17194664808)
 
 ---
 
-## Mailing Address
+<!--## Mailing Address
 
 > PO Box 
 >
 > Colorado Springs, Colorado
 >
 > United States
-
+-->
 ---
 
 ## Social
 
-1. [Github](#)
-2. [LinkedIn](#)
-3. [Twitter](#)
-4. [Blog](https://techrelay.xyz)
+1. [Github](https://github.com/ntbennett)
+2. [LinkedIn](https://www.linkedin.com/in/nicholas-bennett-93212015a/)
+3. [Blog](https://techrelay.xyz/posts)

@@ -4,7 +4,7 @@ theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = true          # enable KaTeX (https://katex.org/) globally
-googleAnalytics = ""  # add your tracking id
+googleAnalytics = "G-2B2K7HZCYD"  # add your tracking id
 
 [params]
   author = "Nicholas T. Bennett"

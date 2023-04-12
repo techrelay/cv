@@ -13,7 +13,7 @@ googleAnalytics = "G-2B2K7HZCYD"  # add your tracking id
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Nicholas T. Bennett"
-    url = "https://techrelay.xyz"
+    url = "https://nbennett.xyz"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"

@@ -1,10 +1,10 @@
 title = "Curriculum Vitae"
-baseURL = "https://cv.techrelay.xyz"
+baseURL = "https://cv.nbennett.xyz"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = true          # enable KaTeX (https://katex.org/) globally
-googleAnalytics = ""  # add your tracking id
+googleAnalytics = "G-7V7K2G9B8E"  # add your tracking id
 
 [params]
   author = "Nicholas T. Bennett"
@@ -13,7 +13,7 @@ googleAnalytics = ""  # add your tracking id
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Nicholas T. Bennett"
-    url = "https://techrelay.xyz"
+    url = "https://nbennett.xyz"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"

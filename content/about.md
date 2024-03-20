@@ -14,6 +14,11 @@ For my Home Lab and Home Production I have two 24U racks filled with Enterprise 
 
 ## Work History
 
+**IT Manager - Omni Hotels & Resorts** <br>
+*July 2023 - Present* <br>
+<br> Manage IT Department across two properties, Maintain Vendor relationships, Manage projects, Manage Budget, Assign tickets and project work to team, Ocasional field work and site visits.
+<br>
+
 
 **Systems Administrator Mid-Market - Resultant** <br>
 *Sept. 2021 - Nov 2022* <br>

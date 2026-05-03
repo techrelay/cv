@@ -14,6 +14,11 @@ For my Home Lab and Home Production I have two 24U racks filled with Enterprise 
 
 ## Work History
 
+**Tier 3 Engineer- GL.iNet** <br>
+*Oct. 2025 - Present* <br>
+<br> Manage Support team, Dispatch Tickets, Review ticket quality, Train agents. 
+<br>
+
 **IT Manager - Omni Hotels & Resorts** <br>
 *July 2023 - Present* <br>
 <br> Manage IT Department across two properties, Maintain Vendor relationships, Manage projects, Manage Budget, Assign tickets and project work to team, Ocasional field work and site visits.
